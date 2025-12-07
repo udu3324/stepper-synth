@@ -612,6 +612,22 @@
     [
       "4cffa37c-45b8-4920-b8b2-ef251deb4f7d",
       "Root"
+    ],
+    [
+      "1dbf99b4-40ff-48b9-a3ff-ddbf268bfbf7",
+      "Motor Controllers"
+    ],
+    [
+      "52383a73-ab00-4bdf-b725-43cf63c2a55a",
+      "Hall Effect Sensors"
+    ],
+    [
+      "bc278183-3a99-4b06-ade5-b87c9f8874ad",
+      "Sensor Mux"
+    ],
+    [
+      "13308a7f-c2fa-4e5e-9cb4-433a51d7df43",
+      "Arpeggio Module"
     ]
   ],
   "text_variables": {}
