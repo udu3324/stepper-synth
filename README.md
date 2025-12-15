@@ -15,7 +15,7 @@ There's so many electronic instruments that make sounds purely through cables an
 ## PCB
 
 ![pcb](assets/image-5.png)
-![3d pcb](image-6.png)
+![3d pcb](assets/image-6.png)
 
 ## Schematics
 
