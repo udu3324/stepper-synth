@@ -1,4 +1,4 @@
-26313443268687630
+26316974781590817
 1_udu_lib
 HM-NFC-Class6-Antenna
 <h1> Class 6 Antenna - 50 pF #01 </h1>{return}<h3>{return}Size: 	24 x 18 mm{return}<br>{return}Width: 	0.25 mm{return}<br>{return}Gap: 	0.1 mm{return}<br>{return}Turns: 	7{return}</h3>
@@ -127,6 +127,20 @@ mouse-bite-5mm-slot
 0
 1_udu_lib
 slider_synth_back
+
+
+0
+0
+0
+1_udu_lib
+stepper_drawing_b
+
+
+0
+0
+0
+1_udu_lib
+stepper_drawing_f
 
 
 0
